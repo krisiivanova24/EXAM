@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\forExam\exam~2\palindromOrNot\bin\Debug\palindromOrNot.exe.config
+C:\Users\hristo\Desktop\programming\forExam\exam~2\palindromOrNot\bin\Debug\palindromOrNot.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\palindromOrNot\bin\Debug\palindromOrNot.pdb
+C:\Users\hristo\Desktop\programming\forExam\exam~2\palindromOrNot\obj\Debug\palindromOrNot.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\palindromOrNot\obj\Debug\palindromOrNot.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\palindromOrNot\obj\Debug\palindromOrNot.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\palindromOrNot\obj\Debug\palindromOrNot.pdb

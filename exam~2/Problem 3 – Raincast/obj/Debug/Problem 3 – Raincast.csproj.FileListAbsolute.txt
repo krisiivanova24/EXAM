@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 3 – Raincast\bin\Debug\Problem 3 – Raincast.exe.config
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 3 – Raincast\bin\Debug\Problem 3 – Raincast.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 3 – Raincast\bin\Debug\Problem 3 – Raincast.pdb
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 3 – Raincast\obj\Debug\Problem 3 – Raincast.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 3 – Raincast\obj\Debug\Problem 3 – Raincast.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 3 – Raincast\obj\Debug\Problem 3 – Raincast.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 3 – Raincast\obj\Debug\Problem 3 – Raincast.pdb

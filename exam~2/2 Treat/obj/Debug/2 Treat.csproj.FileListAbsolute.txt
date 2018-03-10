@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\forExam\exam~2\2 Treat\bin\Debug\2 Treat.exe.config
+C:\Users\hristo\Desktop\programming\forExam\exam~2\2 Treat\bin\Debug\2 Treat.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\2 Treat\bin\Debug\2 Treat.pdb
+C:\Users\hristo\Desktop\programming\forExam\exam~2\2 Treat\obj\Debug\2 Treat.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\2 Treat\obj\Debug\2 Treat.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\2 Treat\obj\Debug\2 Treat.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\2 Treat\obj\Debug\2 Treat.pdb

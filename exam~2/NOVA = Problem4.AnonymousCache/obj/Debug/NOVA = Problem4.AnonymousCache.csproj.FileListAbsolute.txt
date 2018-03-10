@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\forExam\exam~2\NOVA = Problem4.AnonymousCache\bin\Debug\NOVA = Problem4.AnonymousCache.exe.config
+C:\Users\hristo\Desktop\programming\forExam\exam~2\NOVA = Problem4.AnonymousCache\bin\Debug\NOVA = Problem4.AnonymousCache.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\NOVA = Problem4.AnonymousCache\bin\Debug\NOVA = Problem4.AnonymousCache.pdb
+C:\Users\hristo\Desktop\programming\forExam\exam~2\NOVA = Problem4.AnonymousCache\obj\Debug\NOVA = Problem4.AnonymousCache.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\NOVA = Problem4.AnonymousCache\obj\Debug\NOVA = Problem4.AnonymousCache.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\NOVA = Problem4.AnonymousCache\obj\Debug\NOVA = Problem4.AnonymousCache.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\NOVA = Problem4.AnonymousCache\obj\Debug\NOVA = Problem4.AnonymousCache.pdb

@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1. Anonymous Downsite\bin\Debug\Problem_1.Anonymous_Downsite.exe.config
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1. Anonymous Downsite\bin\Debug\Problem_1.Anonymous_Downsite.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1. Anonymous Downsite\bin\Debug\Problem_1.Anonymous_Downsite.pdb
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1. Anonymous Downsite\obj\Debug\Problem 1. Anonymous Downsite.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1. Anonymous Downsite\obj\Debug\Problem 1. Anonymous Downsite.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1. Anonymous Downsite\obj\Debug\Problem_1.Anonymous_Downsite.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1. Anonymous Downsite\obj\Debug\Problem_1.Anonymous_Downsite.pdb

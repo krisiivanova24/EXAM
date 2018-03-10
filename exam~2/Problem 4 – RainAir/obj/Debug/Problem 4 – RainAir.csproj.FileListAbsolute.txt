@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 4 – RainAir\bin\Debug\Problem 4 – RainAir.exe.config
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 4 – RainAir\bin\Debug\Problem 4 – RainAir.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 4 – RainAir\bin\Debug\Problem 4 – RainAir.pdb
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 4 – RainAir\obj\Debug\Problem 4 – RainAir.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 4 – RainAir\obj\Debug\Problem 4 – RainAir.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 4 – RainAir\obj\Debug\Problem 4 – RainAir.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 4 – RainAir\obj\Debug\Problem 4 – RainAir.pdb

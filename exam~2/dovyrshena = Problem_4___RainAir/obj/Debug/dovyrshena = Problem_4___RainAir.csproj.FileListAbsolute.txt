@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\forExam\exam~2\dovyrshena = Problem_4___RainAir\bin\Debug\dovyrshena = Problem_4___RainAir.exe.config
+C:\Users\hristo\Desktop\programming\forExam\exam~2\dovyrshena = Problem_4___RainAir\bin\Debug\dovyrshena = Problem_4___RainAir.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\dovyrshena = Problem_4___RainAir\bin\Debug\dovyrshena = Problem_4___RainAir.pdb
+C:\Users\hristo\Desktop\programming\forExam\exam~2\dovyrshena = Problem_4___RainAir\obj\Debug\dovyrshena = Problem_4___RainAir.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\dovyrshena = Problem_4___RainAir\obj\Debug\dovyrshena = Problem_4___RainAir.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\dovyrshena = Problem_4___RainAir\obj\Debug\dovyrshena = Problem_4___RainAir.pdb
+C:\Users\hristo\Desktop\programming\forExam\exam~2\dovyrshena = Problem_4___RainAir\obj\Debug\dovyrshena = Problem_4___RainAir.csprojResolveAssemblyReference.cache

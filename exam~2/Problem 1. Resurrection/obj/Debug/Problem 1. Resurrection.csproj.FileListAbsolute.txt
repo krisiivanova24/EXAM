@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1. Resurrection\bin\Debug\Problem_1.Resurrection.exe.config
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1. Resurrection\bin\Debug\Problem_1.Resurrection.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1. Resurrection\bin\Debug\Problem_1.Resurrection.pdb
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1. Resurrection\obj\Debug\Problem 1. Resurrection.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1. Resurrection\obj\Debug\Problem 1. Resurrection.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1. Resurrection\obj\Debug\Problem_1.Resurrection.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1. Resurrection\obj\Debug\Problem_1.Resurrection.pdb

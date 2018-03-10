@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 2. Anonymous Threat\bin\Debug\Problem_2.Anonymous_Threat.exe.config
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 2. Anonymous Threat\bin\Debug\Problem_2.Anonymous_Threat.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 2. Anonymous Threat\bin\Debug\Problem_2.Anonymous_Threat.pdb
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 2. Anonymous Threat\obj\Debug\Problem 2. Anonymous Threat.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 2. Anonymous Threat\obj\Debug\Problem 2. Anonymous Threat.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 2. Anonymous Threat\obj\Debug\Problem_2.Anonymous_Threat.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 2. Anonymous Threat\obj\Debug\Problem_2.Anonymous_Threat.pdb

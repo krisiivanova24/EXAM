@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 3. Anonymous Vox\bin\Debug\Problem_3.Anonymous_Vox.exe.config
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 3. Anonymous Vox\bin\Debug\Problem_3.Anonymous_Vox.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 3. Anonymous Vox\bin\Debug\Problem_3.Anonymous_Vox.pdb
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 3. Anonymous Vox\obj\Debug\Problem 4. Anonymous Cache.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 3. Anonymous Vox\obj\Debug\Problem 4. Anonymous Cache.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 3. Anonymous Vox\obj\Debug\Problem_3.Anonymous_Vox.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 3. Anonymous Vox\obj\Debug\Problem_3.Anonymous_Vox.pdb

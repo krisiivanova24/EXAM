@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1 – Raindrops\bin\Debug\Problem 1 – Raindrops.exe.config
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1 – Raindrops\bin\Debug\Problem 1 – Raindrops.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1 – Raindrops\bin\Debug\Problem 1 – Raindrops.pdb
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1 – Raindrops\obj\Debug\Problem 1 – Raindrops.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1 – Raindrops\obj\Debug\Problem 1 – Raindrops.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1 – Raindrops\obj\Debug\Problem 1 – Raindrops.exe
+C:\Users\hristo\Desktop\programming\forExam\exam~2\Problem 1 – Raindrops\obj\Debug\Problem 1 – Raindrops.pdb
